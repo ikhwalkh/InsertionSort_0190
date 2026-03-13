@@ -53,6 +53,7 @@ void insertionsort() { // procedure insertion sort
     }
 }
 
+//Display
 void display() {
     cout << endl;
     cout << "\n=====================";
